@@ -68,10 +68,11 @@ O projeto baseia-se em 34 fontes técnicas rigorosamente selecionadas e validada
 ---
 
 ## 🔗 5. Link de Acesso Público ao Notebook
+https://notebook.google.com/notebook/f80184cf-f7aa-4325-abd5-6a1e684d66bb
 
 O notebook público contendo todas as fontes, arquivos e histórico interativo pode ser acessado através do link abaixo:
 
-👉 **[Acessar Notebook Público no Gemini Notebook / NotebookLM]([https://notebooklm.google.com/](https://notebook.google.com/notebook/f80184cf-f7aa-4325-abd5-6a1e684d66bb?authuser=2))**
+👉 **[Acessar Notebook Público no Gemini Notebook / NotebookLM]([(https://notebook.google.com/notebook/f80184cf-f7aa-4325-abd5-6a1e684d66bb?authuser=2)])**
 
 ---
 
